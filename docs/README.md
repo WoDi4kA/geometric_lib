@@ -3,9 +3,8 @@
 1. Сделал git clone своего репозитория
 2. Открыл папку geometric_lib через терминал
 2. Создал ветку documentation_(мой ису)
-3. Описал решение файлов rectangle.py и triangle.py в VS
+3. Описал решение файлов rectangle.py и triangle.py в PyCharm
 4. Сделал git add и git commit каждому файлу
-5. Установил расширение Markdown в VS
 ---
 # Math formulas
 ## Area
